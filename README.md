@@ -3,6 +3,8 @@
 
 ただひたすら、指定されたワードが話された回数を数えます。
 
+![実行例](img/desune_counter.gif)
+
 ## 実行方法
 1. このリポジトリをcloneまたはダウンロードして、入手してください。
 1. [Releases](https://github.com/t-iwabuchi/desune_counter/releases)より`dictation-kit-4.5.zip`をダウンロードして解凍し、`dictation-kit-4.5`ディレクトリを`desune_counter.pde`と同じディレクトリに配置してください。
@@ -16,9 +18,9 @@ desune = "ですね";
 ```
 
 ## 使用しているもの
-* Processing
+* Processing (https://processing.org/)
 * Swing(GUIライブラリ)
-* Julius(汎用大語彙連続音声認識エンジン)
+* Julius(汎用大語彙連続音声認識エンジン) (https://julius.osdn.jp/)
 
 ## ライセンス
 本プログラムはパブリックドメインです。  
